@@ -35,13 +35,13 @@ agent faithfully printed the JSON and stopped.
 
 | pi | opencode |
 |---|---|
-| ![pi showing the tool-call mismatch](../public/assets/images/pi-showing-tool-call-mismatch.webp) | ![opencode showing the tool-call mismatch](../public/assets/images/opencode-showing-tool-call-mismatch.webp) |
+| ![pi showing the tool-call mismatch](public/assets/images/pi-showing-tool-call-mismatch.webp) | ![opencode showing the tool-call mismatch](public/assets/images/opencode-showing-tool-call-mismatch.webp) |
 
 **With proxytool in the middle — same prompt, actually works:**
 
 | pi | opencode |
 |---|---|
-| ![pi showing directory contents](../public/assets/images/pi-showing-directory-content.webp) | ![opencode showing directory contents](../public/assets/images/opencode-showing-directory-content.webp) |
+| ![pi showing directory contents](public/assets/images/pi-showing-directory-content.webp) | ![opencode showing directory contents](public/assets/images/opencode-showing-directory-content.webp) |
 
 ## What's in the repo
 

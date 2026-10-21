@@ -120,8 +120,7 @@ from toolpatch import extract_tool_calls, heal_json, StreamHealer, normalize_cha
 from toolpatch import ExtractedToolCalls  # dataclass: content, tool_calls, source
 ```
 
-### `extract_tool_calls(content, tool_names=None,
-                        allow_unterminated_hermes=False)`
+### `extract_tool_calls(content, tool_names=None, allow_unterminated_hermes=False)`
 
 `-> ExtractedToolCalls | None`
 

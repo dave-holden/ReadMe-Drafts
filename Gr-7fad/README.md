@@ -22,13 +22,13 @@ Every time I asked opencode or pi something simple like “list the contents of 
 
 | opencode | pi |
 |:---:|:---:|
-| ![opencode mismatch](../public/assets/images/opencode-showing-tool-call-mismatch.webp) | ![pi mismatch](../public/assets/images/pi-showing-tool-call-mismatch.webp) |
+| ![opencode mismatch](public/assets/images/opencode-showing-tool-call-mismatch.webp) | ![pi mismatch](public/assets/images/pi-showing-tool-call-mismatch.webp) |
 
 **With the proxy in front** (it just works):
 
 | opencode | pi |
 |:---:|:---:|
-| ![opencode works](../public/assets/images/opencode-showing-directory-content.webp) | ![pi works](../public/assets/images/pi-showing-directory-content.webp) |
+| ![opencode works](public/assets/images/opencode-showing-directory-content.webp) | ![pi works](public/assets/images/pi-showing-directory-content.webp) |
 
 That’s the whole point of this repo.
 

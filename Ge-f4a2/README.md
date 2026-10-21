@@ -17,8 +17,8 @@ Every time I connected an AI coding-agent CLI (`pi` or `opencode`) and prompted 
 
 | Without `proxytool` (Tool-Call Mismatch) | With `proxytool` (Working Stream) |
 | :--- | :--- |
-| ![Opencode Error JSON](../public/assets/images/opencode-showing-tool-call-mismatch.webp) | ![Opencode Working](../public/assets/images/opencode-showing-directory-content.webp) |
-| ![Pi Error JSON](../public/assets/images/pi-showing-tool-call-mismatch.webp) | ![Pi Working](../public/assets/images/pi-showing-directory-content.webp) |
+| ![Opencode Error JSON](public/assets/images/opencode-showing-tool-call-mismatch.webp) | ![Opencode Working](public/assets/images/opencode-showing-directory-content.webp) |
+| ![Pi Error JSON](public/assets/images/pi-showing-tool-call-mismatch.webp) | ![Pi Working](public/assets/images/pi-showing-directory-content.webp) |
 
 ## Monorepo Layout
 
