@@ -1,39 +1,43 @@
 .DS_Store
+
 READMEs
 README-1-Root.md
 README-2-Root.md
 README-3-Root.md
 
-# Ch-20aa/README-1-Root.md
-# Ge-f4a2/README-1-Root.md
-# Grok-7fad/README-1-Root.md
-# Ki-189b/README-1-Root.md
+# # Ch-20aa/README-1-Root.md
+# # Ge-f4a2/README-1-Root.md
+# # Grok-7fad/README-1-Root.md
+# # Ki-189b/README-1-Root.md
 
-
-
-# git rm -r --cached Ch-20aa/README-1-Root.md
-# git rm -r --cached Ch-20aa/README-2-Root.md
-# git rm -r --cached Ch-20aa/README-3-Root.md
-
-# git rm -r --cached Cl-6263/README-1-Root.md
-# git rm -r --cached Cl-6263/README-2-Root.md
-# git rm -r --cached Cl-6263/README-3-Root.md  
 
 # git rm -r --cached Ge-f4a2/README-1-Root.md
 # git rm -r --cached Ge-f4a2/README-2-Root.md
 # git rm -r --cached Ge-f4a2/README-3-Root.md
 
-# git rm -r --cached Gr-7fad/README-1-Root.md
-# git rm -r --cached Gr-7fad/README-2-Root.md
-# git rm -r --cached Gr-7fad/README-3-Root.md
+# # git rm -r --cached Ch-20aa/README-1-Root.md
+# # git rm -r --cached Ch-20aa/README-2-Root.md
+# # git rm -r --cached Ch-20aa/README-3-Root.md
 
-# git rm -r --cached Ki-189b/README-1-Root.md
-# git rm -r --cached Ki-189b/README-2-Root.md
-# git rm -r --cached Ki-189b/README-3-Root.md
+# # git rm -r --cached Cl-6263/README-1-Root.md
+# # git rm -r --cached Cl-6263/README-2-Root.md
+# # git rm -r --cached Cl-6263/README-3-Root.md  
 
-# git rm -r --cached Ma-hBVU/README-1-Root.md
-# git rm -r --cached Ma-hBVU/README-2-Root.md
-# git rm -r --cached Ma-hBVU/README-3-Root.md  
+# # git rm -r --cached Ge-f4a2/README-1-Root.md
+# # git rm -r --cached Ge-f4a2/README-2-Root.md
+# # git rm -r --cached Ge-f4a2/README-3-Root.md
+
+# # git rm -r --cached Gr-7fad/README-1-Root.md
+# # git rm -r --cached Gr-7fad/README-2-Root.md
+# # git rm -r --cached Gr-7fad/README-3-Root.md
+
+# # git rm -r --cached Ki-189b/README-1-Root.md
+# # git rm -r --cached Ki-189b/README-2-Root.md
+# # git rm -r --cached Ki-189b/README-3-Root.md
+
+# # git rm -r --cached Ma-hBVU/README-1-Root.md
+# # git rm -r --cached Ma-hBVU/README-2-Root.md
+# # git rm -r --cached Ma-hBVU/README-3-Root.md  
 
 
 public-obs
