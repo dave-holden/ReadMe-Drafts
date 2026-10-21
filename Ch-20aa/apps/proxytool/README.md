@@ -1,6 +1,6 @@
 <!-- Project header -->
 <div align="left">
-  <h1 style="display: inline; position: top;">proxytool</h1>
+  <h1 style="display: inline; position: top; text-decoration: none;">proxytool</h1>
   <img src="../../public/assets/images/proxytool.webp" alt="proxytool logo" width="72" align="left" />
   <p>Proxy Application</p>
 </div>
