@@ -1,4 +1,9 @@
-# proxytoolpatch
+<!-- Project header -->
+<div align="left">
+  <h1 style="display: inline; position: top;">proxytoolpatch</h1>
+  <img src="public/assets/images/proxytoolpatch.webp" alt="proxytoolpatch logo" width="72" align="left" />
+  <p>Fixing tool-call mismatches in local Qwen LLMs.</p>
+</div>
 
 A monorepo containing a lightweight local proxy (`proxytool`) and a stream-healing Python library (`toolpatch`) designed to intercept and repair leaked LLM tool calls in-flight.
 
@@ -12,8 +17,8 @@ Every time I connected an AI coding-agent CLI (`pi` or `opencode`) and prompted 
 
 | Without `proxytool` (Tool-Call Mismatch) | With `proxytool` (Working Stream) |
 | :--- | :--- |
-| ![Opencode Error JSON](apps/proxytool/public/assets/images/opencode-showing-tool-call-mismatch.webp) | ![Opencode Working](apps/proxytool/public/assets/images/opencode-showing-directory-content.webp) |
-| ![Pi Error JSON](apps/proxytool/public/assets/images/pi-showing-tool-call-mismatch.webp) | ![Pi Working](apps/proxytool/public/assets/images/pi-showing-directory-content.webp) |
+| ![Opencode Error JSON](../public/assets/images/opencode-showing-tool-call-mismatch.webp) | ![Opencode Working](../public/assets/images/opencode-showing-directory-content.webp) |
+| ![Pi Error JSON](../public/assets/images/pi-showing-tool-call-mismatch.webp) | ![Pi Working](../public/assets/images/pi-showing-directory-content.webp) |
 
 ## Monorepo Layout
 

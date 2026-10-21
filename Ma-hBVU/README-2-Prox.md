@@ -293,7 +293,7 @@ proxytool serve --upstream-url http://127.0.0.1:8080 \
 directly:**
 
 ```bash
-export OPENCODE_CONFIG=./examples/opencode-gguf.jsonc   # baseURL http://127.0.0.1:8180/v1
+export OPENCODE_CONFIG=./examples/opencode/opencode-gguf.jsonc   # baseURL http://127.0.0.1:8180/v1
 opencode                                              # interactive agent
 pi --provider proxytool --model qwen-mlx -p "list the files in ."   # one-shot turn
 proxytool health && proxytool models                  # sanity check

@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="public/assets/images/proxytoolpatch.webp" alt="proxytoolpatch" width="220">
-</p>
-
-# proxytoolpatch
+<!-- Project header -->
+<div align="left">
+  <h1 style="display: inline; position: top;">proxytoolpatch</h1>
+  <img src="public/assets/images/proxytoolpatch.webp" alt="proxytoolpatch logo" width="72" align="left" />
+  <p>Fixing tool-call mismatches in local Qwen LLMs.</p>
+</div>
 
 [![test & checks](https://github.com/dave-holden/proxytoolpatch/actions/workflows/test.yml/badge.svg)](https://github.com/dave-holden/proxytoolpatch/actions/workflows/test.yml)
 [![publish toolpatch + proxytool](https://github.com/dave-holden/proxytoolpatch/actions/workflows/publish.yml/badge.svg)](https://github.com/dave-holden/proxytoolpatch/actions/workflows/publish.yml)
@@ -21,13 +22,13 @@ Every time I asked opencode or pi something simple like “list the contents of 
 
 | opencode | pi |
 |:---:|:---:|
-| ![opencode mismatch](public/assets/images/opencode-showing-tool-call-mismatch.webp) | ![pi mismatch](public/assets/images/pi-showing-tool-call-mismatch.webp) |
+| ![opencode mismatch](../public/assets/images/opencode-showing-tool-call-mismatch.webp) | ![pi mismatch](../public/assets/images/pi-showing-tool-call-mismatch.webp) |
 
 **With the proxy in front** (it just works):
 
 | opencode | pi |
 |:---:|:---:|
-| ![opencode works](public/assets/images/opencode-showing-directory-content.webp) | ![pi works](public/assets/images/pi-showing-directory-content.webp) |
+| ![opencode works](../public/assets/images/opencode-showing-directory-content.webp) | ![pi works](../public/assets/images/pi-showing-directory-content.webp) |
 
 That’s the whole point of this repo.
 

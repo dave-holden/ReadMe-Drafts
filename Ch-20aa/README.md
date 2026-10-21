@@ -1,11 +1,9 @@
 <!-- Project header -->
-<p align="left">
-  <img src="public/assets/images/proxytoolpatch-logo.svg" alt="proxytoolpatch logo" width="64" align="left" />
-</p>
-
-# proxytoolpatch
-
-**Fixing tool-call mismatches in local LLMs.**
+<div align="left">
+  <h1 style="display: inline; position: top;">proxytoolpatch</h1>
+  <img src="public/assets/images/proxytoolpatch.webp" alt="proxytoolpatch logo" width="72" align="left" />
+  <p>Fixing tool-call mismatches in local Qwen LLMs.</p>
+</div>
 
 [![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-see%20repository-lightgrey)](LICENSE)

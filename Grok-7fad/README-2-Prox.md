@@ -160,7 +160,7 @@ proxytool serve --upstream-url http://127.0.0.1:8080 --upstream-timeout 600
 **3. Point the clients at the proxy (never at llama-swap directly):**
 
 ```bash
-export OPENCODE_CONFIG=./examples/opencode-gguf.jsonc
+export OPENCODE_CONFIG=./examples/opencode/opencode-gguf.jsonc
 opencode
 
 pi --provider proxytool --model qwen-mlx -p "list the files in ."

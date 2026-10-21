@@ -91,10 +91,10 @@ Either way, the base URL is proxytool's `/v1`, never the model server directly.
 
 ### opencode
 
-Two ready-made configs in [`examples/`](../../examples/): `opencode-gguf.jsonc` (llama-server, model id `proxytool/qwen-gguf`) and `opencode-mlx.jsonc` (mlx_lm.server, `proxytool/qwen-mlx`).
+Two ready-made configs in [`examples/opencode/`](../../examples/opencode/): `opencode-gguf.jsonc` (llama-server, model id `proxytool/qwen-gguf`) and `opencode-mlx.jsonc` (mlx_lm.server, `proxytool/qwen-mlx`).
 
 ```sh
-export OPENCODE_CONFIG=./examples/opencode-gguf.jsonc
+export OPENCODE_CONFIG=./examples/opencode/opencode-gguf.jsonc
 opencode
 ```
 

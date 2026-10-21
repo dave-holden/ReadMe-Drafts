@@ -1,4 +1,9 @@
-# proxytoolpatch
+<!-- Project header -->
+<div align="left">
+  <h1 style="display: inline; position: top;">proxytoolpatch</h1>
+  <img src="public/assets/images/proxytoolpatch.webp" alt="proxytoolpatch logo" width="72" align="left" />
+  <p>Fixing tool-call mismatches in local Qwen LLMs.</p>
+</div>
 
 Run a coding agent against a small local LLM — without the agent printing raw
 JSON at you.
@@ -30,13 +35,13 @@ agent faithfully printed the JSON and stopped.
 
 | pi | opencode |
 |---|---|
-| ![pi showing the tool-call mismatch](public/assets/images/pi-showing-tool-call-mismatch.webp) | ![opencode showing the tool-call mismatch](public/assets/images/opencode-showing-tool-call-mismatch.webp) |
+| ![pi showing the tool-call mismatch](../public/assets/images/pi-showing-tool-call-mismatch.webp) | ![opencode showing the tool-call mismatch](../public/assets/images/opencode-showing-tool-call-mismatch.webp) |
 
 **With proxytool in the middle — same prompt, actually works:**
 
 | pi | opencode |
 |---|---|
-| ![pi showing directory contents](public/assets/images/pi-showing-directory-content.webp) | ![opencode showing directory contents](public/assets/images/opencode-showing-directory-content.webp) |
+| ![pi showing directory contents](../public/assets/images/pi-showing-directory-content.webp) | ![opencode showing directory contents](../public/assets/images/opencode-showing-directory-content.webp) |
 
 ## What's in the repo
 
